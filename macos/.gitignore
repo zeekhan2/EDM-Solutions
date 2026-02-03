@@ -5,3 +5,47 @@
 # Xcode-related
 **/dgph
 **/xcuserdata/
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+firebase.json
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/debug.keystore
+android/app/google-services.json
+android/app/src/main/AndroidManifest.xml
+android/app/src/debug/AndroidManifest.xml
+ios/Runner/AppDelegate.swift
+lib/firebase_options.dart
+
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Runner/GoogleService-Info.plist
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Firebase
+lib/firebase_options.dart
+
+# Secrets / configs
+lib/config/stripe_config.dart
+lib/config/api_keys.dart
+lib/consts/api_constants.dart
+
+# Logs
+*.log
+
