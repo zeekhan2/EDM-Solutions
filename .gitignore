@@ -32,6 +32,7 @@ ios/Runner/GoogleService-Info.plist
 
 # Firebase
 lib/firebase_options.dart
+android/app/upload-keystore.jks
 
 # Secrets / configs
 lib/config/stripe_config.dart
