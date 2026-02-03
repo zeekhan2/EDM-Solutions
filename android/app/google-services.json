@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "877730843272",
+    "project_id": "edm-solutions",
+    "storage_bucket": "edm-solutions.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877730843272:android:e1f34f5dc85f536cae6d3d",
+        "android_client_info": {
+          "package_name": "com.nexus.edmsolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877730843272-199f79pvaknmk5fvuakirkdutnifv5s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nexus.edmsolutions",
+            "certificate_hash": "44781ec8a213c9d0acbde84a3816c47584a6e9c6"
+          }
+        },
+        {
+          "client_id": "877730843272-l7jgq5g8di7nerc118c3p1nnqhi3ooto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nexus.edmsolutions",
+            "certificate_hash": "cafa29e6bef813377b06fa06e6b6ca7eeb7227c2"
+          }
+        },
+        {
+          "client_id": "877730843272-sf6vut7vmotkh3p7qo23thc6ski2g74i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nexus.edmsolutions",
+            "certificate_hash": "67187ae8eaeff9d757963d67b93f9dd53b5ec3d9"
+          }
+        },
+        {
+          "client_id": "877730843272-9q1ac09qjhfn8464r6nb7nnpvh3pb082.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVP60uidQqeegbueuhME2kvvT0lbJo-Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877730843272-9q1ac09qjhfn8464r6nb7nnpvh3pb082.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877730843272-ept5dn2o2f87c3hlf0pb1jd3l5oi3m3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edmsolutions"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

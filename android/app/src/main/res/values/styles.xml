@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Launch theme (used while app is starting) -->
+    <!-- REQUIRED by flutter_stripe -->
+    <style name="LaunchTheme"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/launch_background</item>
+        <!-- 🔴 REQUIRED for Stripe on Android 12+ -->
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+
+    <!-- Normal app theme (used after Flutter loads) -->
+    <!-- REQUIRED by flutter_stripe -->
+    <style name="NormalTheme"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <!-- 🔴 REQUIRED for Stripe on Android 12+ -->
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+
+</resources>
